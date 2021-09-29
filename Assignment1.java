@@ -1,4 +1,7 @@
 import java.util.Scanner;
+//great job, thanks for your hard work
+//your grade is 4.5/5
+//@ change the class name from Main to match the file name Assignment1 ( golden rule )
 public class Main{
 public static void main(String[] args) {
     
