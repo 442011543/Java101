@@ -12,17 +12,17 @@ public static void main(String[] args) {
     System.out.print("Enter Float Numb 2 : ");
     var2 = myScanner.nextFloat();
     
-    System.out.println("Numb 1 + Numb 2 = " + (var1+var2));
-    System.out.println("Numb 1 - Numb 2 = " + (var1-var2));
-    System.out.println("Numb 1 * Numb 2 = " + (var1*var2));
-    System.out.println("Numb 1 / Numb 2 = " + (var1/var2));
-    System.out.println("Numb 1 % Numb 2 = " + (var1%var2));
-    System.out.println("Numb 1 Greater than Numb 2 = " + (var1>var2));
-    System.out.println("Numb 1 Greater than or equal Numb 2 = " + (var1>=var2));
-    System.out.println("Numb 1 Less than Numb 2 = " + (var1<var2));
-    System.out.println("Numb 1 Less than or equal Numb 2 = " + (var1<=var2));
-    System.out.println("Numb 1 Not equal Numb 2 = " + (var1!=var2));
-    System.out.println("Numb 1 Equal Numb 2 = " + (var1==var2));
+    System.out.println( var1 +" + " + var2 + " = " + (var1+var2));
+    System.out.println( var1 +" - " + var2 + " = " + (var1-var2));
+    System.out.println( var1 +" * " + var2 + " = " + (var1*var2));
+    System.out.println( var1 +" / " + var2 + " = "+ (var1/var2));
+    System.out.println( var1 +" % " + var2 + " = "+ (var1%var2));
+    System.out.println( var1 +" > " + var2 + " = "+ (var1>var2));
+    System.out.println( var1 +" >= " + var2 + " = " + (var1>=var2));
+    System.out.println( var1 +" < " + var2 + " = " + (var1<var2));
+    System.out.println( var1 +" <= " + var2 + " = " + (var1<=var2));
+    System.out.println( var1 +" != " + var2 + " = " + (var1!=var2));
+    System.out.println( var1 +" = " + var2 + " = " + (var1==var2));
    
     //ElyasMohammed
     //442011543
