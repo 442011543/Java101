@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class q1 {
+public class Q1 {
     public static void main(String[] args) {
         Scanner enter = new Scanner(System.in);
         float var1;
