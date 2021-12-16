@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class sircle_hw {
+public class IfCirculeAndSquere {
         public static void main(String[] args) {
             Scanner enter = new Scanner(System.in);
             int var1;
