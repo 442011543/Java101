@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class w_h {
+public class SquareWitdthandHeight {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         float h1,w1;
