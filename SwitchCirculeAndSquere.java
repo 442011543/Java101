@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class switch2 {
+public class SwitchCirculeAndSquere {
     public static void main(String[] args) {
         Scanner enter = new Scanner(System.in);
         int numb;
