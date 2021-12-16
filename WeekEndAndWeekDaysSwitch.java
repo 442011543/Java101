@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class week {
+public class WeekEndAndWeekDaysSwitch {
     public static void main(String[] args) {
         Scanner enter = new Scanner(System.in);
         int numb;
